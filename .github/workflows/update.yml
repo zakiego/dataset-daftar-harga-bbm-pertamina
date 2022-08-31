@@ -8,7 +8,7 @@ on:
     - cron: "0 1 * * *" #run every at 01:00:00s UTC / 08.00 GMT +7 / 09.00 GMT +8
 
 jobs:
-  cache-and-install:
+  run:
     runs-on: ubuntu-latest
 
     steps:
