@@ -17,6 +17,8 @@
     "luxon": "^3.0.3"
   },
   "devDependencies": {
-    "@types/luxon": "^3.0.0"
+    "@types/luxon": "^3.0.0",
+    "pino": "^8.4.2",
+    "pino-pretty": "^9.1.0"
   }
 }
