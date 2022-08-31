@@ -109,7 +109,6 @@ export const createProvinceList = (data: Fuel[]) => {
       }
     });
   });
-  console.log(provinces.length);
   fs.writeFileSync(
     "./province.json",
     JSON.stringify({ provinces: provinces }, null, 2),
