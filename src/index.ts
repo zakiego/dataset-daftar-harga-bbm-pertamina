@@ -7,16 +7,16 @@ import {
   getFuels,
   saveTimeSeries,
 } from "./utils";
+import originalFetch from "cross-fetch";
 
-const originalFetch = require("cross-fetch");
 const fetch = require("fetch-retry")(originalFetch);
 
 const main = async () => {
   const doc = await fetch("https://mypertamina.id/fuels-harga", {
     retries: 7,
     retryDelay: 500,
-  }).then((resp) => resp.text());
-  logger.infp("Success fetch data from mypertamina.id");
+  }).then((resp: Response) => resp.text());
+  logger.info("Success fetch data from mypertamina.id");
 
   const $ = cheerio.load(doc);
 
