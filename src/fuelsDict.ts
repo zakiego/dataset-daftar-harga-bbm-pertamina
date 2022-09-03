@@ -16,4 +16,8 @@ export const fulesDict = [
     type: "Dexlite",
     image: "https://mypertamina.id/assets/img/products/dexlite.png",
   },
+  {
+    type: "Bio Solar",
+    image: "https://mypertamina.id/assets/img/products/biosolar.png",
+  },
 ];
