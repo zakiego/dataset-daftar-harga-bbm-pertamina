@@ -1459,6 +1459,881 @@
           ]
         }
       ]
+    },
+    {
+      "date": "3-9-2022",
+      "data": [
+        {
+          "fuelType": "Pertamax Turbo",
+          "prices": [
+            {
+              "prov": "Prov. Nanggroe Aceh Darussalam",
+              "price": "Rp 15.900"
+            },
+            {
+              "prov": "Prov. Sumatera Utara",
+              "price": "Rp 16.250"
+            },
+            {
+              "prov": "Prov. Sumatera Barat",
+              "price": "Rp 16.250"
+            },
+            {
+              "prov": "Prov. Riau",
+              "price": "Rp 16.600"
+            },
+            {
+              "prov": "Prov. Kepulauan Riau",
+              "price": "Rp 16.600"
+            },
+            {
+              "prov": "Kodya Batam (FTZ)",
+              "price": "Rp 16.600"
+            },
+            {
+              "prov": "Prov. Jambi",
+              "price": "Rp 16.250"
+            },
+            {
+              "prov": "Prov. Bengkulu",
+              "price": "Rp 16.600"
+            },
+            {
+              "prov": "Prov. Sumatera Selatan",
+              "price": "Rp 16.250"
+            },
+            {
+              "prov": "Prov. Bangka-Belitung",
+              "price": "Rp 16.250"
+            },
+            {
+              "prov": "Prov. Lampung",
+              "price": "Rp 16.250"
+            },
+            {
+              "prov": "Prov. DKI Jakarta",
+              "price": "Rp 15.900"
+            },
+            {
+              "prov": "Prov. Banten",
+              "price": "Rp 15.900"
+            },
+            {
+              "prov": "Prov. JawaBarat",
+              "price": "Rp 15.900"
+            },
+            {
+              "prov": "Prov. Jawa Tengah",
+              "price": "Rp 15.900"
+            },
+            {
+              "prov": "Prov. DI Yogyakarta",
+              "price": "Rp 15.900"
+            },
+            {
+              "prov": "Prov. Jawa Timur",
+              "price": "Rp 15.900"
+            },
+            {
+              "prov": "Prov. Bali",
+              "price": "Rp 15.900"
+            },
+            {
+              "prov": "Prov. Nusa Tenggara Barat",
+              "price": "Rp 15.900"
+            },
+            {
+              "prov": "Prov. Nusa Tenggara Timur",
+              "price": "Rp 15.900"
+            },
+            {
+              "prov": "Prov. Kalimantan Barat",
+              "price": "Rp 16.250"
+            },
+            {
+              "prov": "Prov. Kalimantan Tengah",
+              "price": "Rp 16.250"
+            },
+            {
+              "prov": "Prov. Kalimantan Selatan",
+              "price": "Rp 16.250"
+            },
+            {
+              "prov": "Prov. Kalimantan Timur",
+              "price": "Rp 16.250"
+            },
+            {
+              "prov": "Prov. Kalimantan Utara",
+              "price": "Rp 16.250"
+            },
+            {
+              "prov": "Prov. Sulawesi Utara",
+              "price": "Rp 16.250"
+            },
+            {
+              "prov": "Prov. Gorontalo",
+              "price": "Rp 16.250"
+            },
+            {
+              "prov": "Prov. Sulawesi Tengah",
+              "price": "Rp 16.250"
+            },
+            {
+              "prov": "Prov. Sulawesi Tenggara",
+              "price": "Rp 16.250"
+            },
+            {
+              "prov": "Prov. Sulawesi Selatan",
+              "price": "Rp 16.250"
+            },
+            {
+              "prov": "Prov. Sulawesi Barat",
+              "price": "Rp 16.250"
+            },
+            {
+              "prov": "Prov. Maluku",
+              "price": "-"
+            },
+            {
+              "prov": "Prov. Maluku Utara",
+              "price": "-"
+            },
+            {
+              "prov": "Prov. Papua",
+              "price": "Rp 16.250"
+            },
+            {
+              "prov": "Prov. Papua Barat",
+              "price": "-"
+            }
+          ]
+        },
+        {
+          "fuelType": "Pertamax",
+          "prices": [
+            {
+              "prov": "Prov. Nanggroe Aceh Darussalam",
+              "price": "Rp 14.500"
+            },
+            {
+              "prov": "Prov. Sumatera Utara",
+              "price": "Rp 14.850"
+            },
+            {
+              "prov": "Prov. Sumatera Barat",
+              "price": "Rp 14.850"
+            },
+            {
+              "prov": "Prov. Riau",
+              "price": "Rp 15.200"
+            },
+            {
+              "prov": "Prov. Kepulauan Riau",
+              "price": "Rp 15.200"
+            },
+            {
+              "prov": "Kodya Batam (FTZ)",
+              "price": "Rp 15.200"
+            },
+            {
+              "prov": "Prov. Jambi",
+              "price": "Rp 14.850"
+            },
+            {
+              "prov": "Prov. Bengkulu",
+              "price": "Rp 15.200"
+            },
+            {
+              "prov": "Prov. Sumatera Selatan",
+              "price": "Rp 14.850"
+            },
+            {
+              "prov": "Prov. Bangka-Belitung",
+              "price": "Rp 14.850"
+            },
+            {
+              "prov": "Prov. Lampung",
+              "price": "Rp 14.850"
+            },
+            {
+              "prov": "Prov. DKI Jakarta",
+              "price": "Rp 14.500"
+            },
+            {
+              "prov": "Prov. Banten",
+              "price": "Rp 14.500"
+            },
+            {
+              "prov": "Prov. JawaBarat",
+              "price": "Rp 14.500"
+            },
+            {
+              "prov": "Prov. Jawa Tengah",
+              "price": "Rp 14.500"
+            },
+            {
+              "prov": "Prov. DI Yogyakarta",
+              "price": "Rp 14.500"
+            },
+            {
+              "prov": "Prov. Jawa Timur",
+              "price": "Rp 14.500"
+            },
+            {
+              "prov": "Prov. Bali",
+              "price": "Rp 14.500"
+            },
+            {
+              "prov": "Prov. Nusa Tenggara Barat",
+              "price": "Rp 14.500"
+            },
+            {
+              "prov": "Prov. Nusa Tenggara Timur",
+              "price": "Rp 14.500"
+            },
+            {
+              "prov": "Prov. Kalimantan Barat",
+              "price": "Rp 14.850"
+            },
+            {
+              "prov": "Prov. Kalimantan Tengah",
+              "price": "Rp 14.850"
+            },
+            {
+              "prov": "Prov. Kalimantan Selatan",
+              "price": "Rp 14.850"
+            },
+            {
+              "prov": "Prov. Kalimantan Timur",
+              "price": "Rp 14.850"
+            },
+            {
+              "prov": "Prov. Kalimantan Utara",
+              "price": "Rp 14.850"
+            },
+            {
+              "prov": "Prov. Sulawesi Utara",
+              "price": "Rp 14.850"
+            },
+            {
+              "prov": "Prov. Gorontalo",
+              "price": "Rp 14.850"
+            },
+            {
+              "prov": "Prov. Sulawesi Tengah",
+              "price": "Rp 14.850"
+            },
+            {
+              "prov": "Prov. Sulawesi Tenggara",
+              "price": "Rp 14.850"
+            },
+            {
+              "prov": "Prov. Sulawesi Selatan",
+              "price": "Rp 14.850"
+            },
+            {
+              "prov": "Prov. Sulawesi Barat",
+              "price": "Rp 14.850"
+            },
+            {
+              "prov": "Prov. Maluku",
+              "price": "Rp 14.850"
+            },
+            {
+              "prov": "Prov. Maluku Utara",
+              "price": "Rp 14.850"
+            },
+            {
+              "prov": "Prov. Papua",
+              "price": "Rp 14.850"
+            },
+            {
+              "prov": "Prov. Papua Barat",
+              "price": "Rp 14.850"
+            }
+          ]
+        },
+        {
+          "fuelType": "Pertalite",
+          "prices": [
+            {
+              "prov": "Prov. Nanggroe Aceh Darussalam",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Sumatera Utara",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Sumatera Barat",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Riau",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Kepulauan Riau",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Kodya Batam (FTZ)",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Jambi",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Bengkulu",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Sumatera Selatan",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Bangka-Belitung",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Lampung",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. DKI Jakarta",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Banten",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. JawaBarat",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Jawa Tengah",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. DI Yogyakarta",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Jawa Timur",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Bali",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Nusa Tenggara Barat",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Nusa Tenggara Timur",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Kalimantan Barat",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Kalimantan Tengah",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Kalimantan Selatan",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Kalimantan Timur",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Kalimantan Utara",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Sulawesi Utara",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Gorontalo",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Sulawesi Tengah",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Sulawesi Tenggara",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Sulawesi Selatan",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Sulawesi Barat",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Maluku",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Maluku Utara",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Papua",
+              "price": "Rp 10.000"
+            },
+            {
+              "prov": "Prov. Papua Barat",
+              "price": "Rp 10.000"
+            }
+          ]
+        },
+        {
+          "fuelType": "Dex",
+          "prices": [
+            {
+              "prov": "Prov. Nanggroe Aceh Darussalam",
+              "price": "Rp 17.400"
+            },
+            {
+              "prov": "Prov. Sumatera Utara",
+              "price": "Rp 17.750"
+            },
+            {
+              "prov": "Prov. Sumatera Barat",
+              "price": "Rp 17.750"
+            },
+            {
+              "prov": "Prov. Riau",
+              "price": "Rp 18.100"
+            },
+            {
+              "prov": "Prov. Kepulauan Riau",
+              "price": "Rp 18.100"
+            },
+            {
+              "prov": "Kodya Batam (FTZ)",
+              "price": "Rp 18.100"
+            },
+            {
+              "prov": "Prov. Jambi",
+              "price": "Rp 17.750"
+            },
+            {
+              "prov": "Prov. Bengkulu",
+              "price": "Rp 18.100"
+            },
+            {
+              "prov": "Prov. Sumatera Selatan",
+              "price": "Rp 17.750"
+            },
+            {
+              "prov": "Prov. Bangka-Belitung",
+              "price": "Rp 17.750"
+            },
+            {
+              "prov": "Prov. Lampung",
+              "price": "Rp 17.750"
+            },
+            {
+              "prov": "Prov. DKI Jakarta",
+              "price": "Rp 17.400"
+            },
+            {
+              "prov": "Prov. Banten",
+              "price": "Rp 17.400"
+            },
+            {
+              "prov": "Prov. JawaBarat",
+              "price": "Rp 17.400"
+            },
+            {
+              "prov": "Prov. Jawa Tengah",
+              "price": "Rp 17.400"
+            },
+            {
+              "prov": "Prov. DI Yogyakarta",
+              "price": "Rp 17.400"
+            },
+            {
+              "prov": "Prov. Jawa Timur",
+              "price": "Rp 17.400"
+            },
+            {
+              "prov": "Prov. Bali",
+              "price": "Rp 17.400"
+            },
+            {
+              "prov": "Prov. Nusa Tenggara Barat",
+              "price": "Rp 17.400"
+            },
+            {
+              "prov": "Prov. Nusa Tenggara Timur",
+              "price": "Rp 17.400"
+            },
+            {
+              "prov": "Prov. Kalimantan Barat",
+              "price": "Rp 17.750"
+            },
+            {
+              "prov": "Prov. Kalimantan Tengah",
+              "price": "Rp 17.750"
+            },
+            {
+              "prov": "Prov. Kalimantan Selatan",
+              "price": "Rp 17.750"
+            },
+            {
+              "prov": "Prov. Kalimantan Timur",
+              "price": "Rp 17.750"
+            },
+            {
+              "prov": "Prov. Kalimantan Utara",
+              "price": "Rp 17.750"
+            },
+            {
+              "prov": "Prov. Sulawesi Utara",
+              "price": "Rp 17.750"
+            },
+            {
+              "prov": "Prov. Gorontalo",
+              "price": "Rp 17.750"
+            },
+            {
+              "prov": "Prov. Sulawesi Tengah",
+              "price": "Rp 17.750"
+            },
+            {
+              "prov": "Prov. Sulawesi Tenggara",
+              "price": "Rp 17.750"
+            },
+            {
+              "prov": "Prov. Sulawesi Selatan",
+              "price": "Rp 17.750"
+            },
+            {
+              "prov": "Prov. Sulawesi Barat",
+              "price": "Rp 17.750"
+            },
+            {
+              "prov": "Prov. Maluku",
+              "price": "-"
+            },
+            {
+              "prov": "Prov. Maluku Utara",
+              "price": "-"
+            },
+            {
+              "prov": "Prov. Papua",
+              "price": "-"
+            },
+            {
+              "prov": "Prov. Papua Barat",
+              "price": "Rp 17.750"
+            }
+          ]
+        },
+        {
+          "fuelType": "Dexlite",
+          "prices": [
+            {
+              "prov": "Prov. Nanggroe Aceh Darussalam",
+              "price": "Rp 17.100"
+            },
+            {
+              "prov": "Prov. Sumatera Utara",
+              "price": "Rp 17.450"
+            },
+            {
+              "prov": "Prov. Sumatera Barat",
+              "price": "Rp 17.450"
+            },
+            {
+              "prov": "Prov. Riau",
+              "price": "Rp 17.800"
+            },
+            {
+              "prov": "Prov. Kepulauan Riau",
+              "price": "Rp 17.800"
+            },
+            {
+              "prov": "Kodya Batam (FTZ)",
+              "price": "Rp 17.800"
+            },
+            {
+              "prov": "Prov. Jambi",
+              "price": "Rp 17.450"
+            },
+            {
+              "prov": "Prov. Bengkulu",
+              "price": "Rp 17.800"
+            },
+            {
+              "prov": "Prov. Sumatera Selatan",
+              "price": "Rp 17.450"
+            },
+            {
+              "prov": "Prov. Bangka-Belitung",
+              "price": "Rp 17.450"
+            },
+            {
+              "prov": "Prov. Lampung",
+              "price": "Rp 17.450"
+            },
+            {
+              "prov": "Prov. DKI Jakarta",
+              "price": "Rp 17.100"
+            },
+            {
+              "prov": "Prov. Banten",
+              "price": "Rp 17.100"
+            },
+            {
+              "prov": "Prov. JawaBarat",
+              "price": "Rp 17.100"
+            },
+            {
+              "prov": "Prov. Jawa Tengah",
+              "price": "Rp 17.100"
+            },
+            {
+              "prov": "Prov. DI Yogyakarta",
+              "price": "Rp 17.100"
+            },
+            {
+              "prov": "Prov. Jawa Timur",
+              "price": "Rp 17.100"
+            },
+            {
+              "prov": "Prov. Bali",
+              "price": "Rp 17.100"
+            },
+            {
+              "prov": "Prov. Nusa Tenggara Barat",
+              "price": "Rp 17.100"
+            },
+            {
+              "prov": "Prov. Nusa Tenggara Timur",
+              "price": "Rp 17.100"
+            },
+            {
+              "prov": "Prov. Kalimantan Barat",
+              "price": "Rp 17.450"
+            },
+            {
+              "prov": "Prov. Kalimantan Tengah",
+              "price": "Rp 17.450"
+            },
+            {
+              "prov": "Prov. Kalimantan Selatan",
+              "price": "Rp 17.450"
+            },
+            {
+              "prov": "Prov. Kalimantan Timur",
+              "price": "Rp 17.450"
+            },
+            {
+              "prov": "Prov. Kalimantan Utara",
+              "price": "Rp 17.450"
+            },
+            {
+              "prov": "Prov. Sulawesi Utara",
+              "price": "Rp 17.450"
+            },
+            {
+              "prov": "Prov. Gorontalo",
+              "price": "Rp 17.450"
+            },
+            {
+              "prov": "Prov. Sulawesi Tengah",
+              "price": "Rp 17.450"
+            },
+            {
+              "prov": "Prov. Sulawesi Tenggara",
+              "price": "Rp 17.450"
+            },
+            {
+              "prov": "Prov. Sulawesi Selatan",
+              "price": "Rp 17.450"
+            },
+            {
+              "prov": "Prov. Sulawesi Barat",
+              "price": "Rp 17.450"
+            },
+            {
+              "prov": "Prov. Maluku",
+              "price": "Rp 17.450"
+            },
+            {
+              "prov": "Prov. Maluku Utara",
+              "price": "Rp 17.450"
+            },
+            {
+              "prov": "Prov. Papua",
+              "price": "Rp 17.450"
+            },
+            {
+              "prov": "Prov. Papua Barat",
+              "price": "Rp 17.450"
+            }
+          ]
+        },
+        {
+          "fuelType": "Bio Solar",
+          "prices": [
+            {
+              "prov": "Prov. Nanggroe Aceh Darussalam",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Sumatera Utara",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Sumatera Barat",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Riau",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Kepulauan Riau",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Kodya Batam (FTZ)",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Jambi",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Bengkulu",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Sumatera Selatan",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Bangka-Belitung",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Lampung",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. DKI Jakarta",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Banten",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. JawaBarat",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Jawa Tengah",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. DI Yogyakarta",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Jawa Timur",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Bali",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Nusa Tenggara Barat",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Nusa Tenggara Timur",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Kalimantan Barat",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Kalimantan Tengah",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Kalimantan Selatan",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Kalimantan Timur",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Kalimantan Utara",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Sulawesi Utara",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Gorontalo",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Sulawesi Tengah",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Sulawesi Tenggara",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Sulawesi Selatan",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Sulawesi Barat",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Maluku",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Maluku Utara",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Papua",
+              "price": "Rp 6.800"
+            },
+            {
+              "prov": "Prov. Papua Barat",
+              "price": "Rp 6.800"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
